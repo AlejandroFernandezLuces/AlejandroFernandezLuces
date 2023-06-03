@@ -24,7 +24,7 @@
 Here you can find my resume: [Alex Fernandez's resume](https://www.overleaf.com/read/cgytzypqnksc).
 
 
-## My Tech Stack 🖥️
+## My technical knowledge 🛠️
 
 <br>
 <p style="display: inline-block;" align="center">
@@ -87,8 +87,8 @@ Here you can find my resume: [Alex Fernandez's resume](https://www.overleaf.com/
 
 
 ## Github Stats
-![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alejandrofernandezluces)
 
+![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alejandrofernandezluces)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrofernandezluces&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
