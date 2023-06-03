@@ -1,21 +1,30 @@
-## Welcome to my profile 🚀
+<div id="header" align="center", float="right">
+<img src="https://github.com/AlejandroFernandezLuces/AlejandroFernandezLuces/assets/17165476/9fd8bf37-2397-4a04-ab3a-5b77ce8aefdf"  width="210"/>
 
-<!--
-**AlejandroFernandezLuces/AlejandroFernandezLuces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<div align="center" id="badges">
+  <a href="https://www.linkedin.com/in/alejandro-fernandez-luces/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:21alex295@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Welcome to my profile 👋
+<div>
+  Hello! I'm Alex, a computer scientist who specialized in computer vision through an international MSc. I worked developing AI vision systems for autonomous vehicles. Now I am a developer at Ansys, where I contribute to different open source python physics simulation libraries. I am very passionate about machine learning, I love playing around with new technologies. 
+</div>
 
-## My Tech Stack 🖥️:
+## Resume 📜
+Here you can find my resume: [Alex Fernandez's resume](https://www.overleaf.com/read/cgytzypqnksc).
+
+
+## My Tech Stack 🖥️
 
 <br>
 <p style="display: inline-block;" align="center">
@@ -73,3 +82,13 @@ Here are some ideas to get you started:
     <img width="50px" title="Windows" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
   </kbd>
 </p>
+
+
+
+
+## Github Stats
+![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alejandrofernandezluces)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrofernandezluces&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
