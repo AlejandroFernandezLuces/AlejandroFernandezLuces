@@ -60,7 +60,6 @@ Here you can find my resume: [Alex Fernandez's resume](https://www.overleaf.com/
     <br>
     <br>
     <img width="50px" title="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
-    <img width="120px" title="PyVista" src="https://docs.pyvista.org/version/stable/_static/pyvista_logo_sm.png" />
   </kbd>
   <br>
   <br>
